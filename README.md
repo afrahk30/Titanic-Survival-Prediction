@@ -1,2 +1,12 @@
 # Titanic-Survival-Prediction
-This project was assigned to me as a part of Codsoft Internship. The aim of this project was to develop a model that predicts whether the passenger will survive or not based on their demographics and travel information.
+
+Overview:
+
+This project uses machine learning techniques to predict the survival of passengers aboard the Titanic. The dataset is analyzed, preprocessed, and modeled using Random Forest Classifier to achieve high prediction accuracy.
+
+Features:
+
+* Data cleaning and preprocessing.
+* Exploratory Data Analysis (EDA) with visualizations.
+* Model Building (RandomForestClassifier)
+* Model Evaluation
