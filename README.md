@@ -8,5 +8,6 @@ Features:
 
 * Data cleaning and preprocessing.
 * Exploratory Data Analysis (EDA) with visualizations.
+* Feature Engineering
 * Model Building (RandomForestClassifier)
 * Model Evaluation
